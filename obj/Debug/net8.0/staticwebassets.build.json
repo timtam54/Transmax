@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UqiHo9zZQ7CEqNfT67wwnqS8ztRy9YucUC3O9MEY3AQ=",
+  "Source": "vscode",
+  "BasePath": "_content/vscode",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

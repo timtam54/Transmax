@@ -1,0 +1,6 @@
+version: '4.28'
+services:
+  redis:
+    image:  redis
+    container_name: redisapi
+    ports:  ["6379:6379"]
